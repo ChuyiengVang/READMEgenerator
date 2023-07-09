@@ -1,9 +1,10 @@
-
-  ## ReadMe Generator
+ ## ReadMe Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   A node.js application used to generate a quality readme.md file for your project
+
+  ![Screenshot (1)](https://github.com/ChuyiengVang/READMEgenerator/assets/124082784/34ec82db-317e-42a7-832b-365013685f5b)
 
   ## About
 
