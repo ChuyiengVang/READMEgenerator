@@ -27,7 +27,7 @@ function generateMarkdown({title, description, instaInstru, usageInfo, license, 
   ## Table of Contents
   
   * [Usage](#usage)
-  * [Installation]($installation)
+  * [Installation](#installation)
   * [License](#license)
   * [Contributing](#contributing)
   * [Test](#test)
