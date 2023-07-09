@@ -61,12 +61,3 @@ inquirer.prompt([
 
     fs.writeFile('README.md', readMeContent, (err) => err ? console.error(err) : console.log('Success!'));
 });
-// TODO: Create a function to write README file
-//function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
-//pass in values
-//function init() {}
-
-// Function call to initialize app
-//init();
