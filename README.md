@@ -53,7 +53,7 @@ THEN I am taken to the corresponding section of the README
   
   ## Table of Contents
   
-  * [Installation]($installation)
+  * [Installation](#installation)
   * [License](#license)
   * [Contributing](#contributing)
   * [Test](#test)
