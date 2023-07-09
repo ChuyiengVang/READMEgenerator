@@ -4,7 +4,7 @@
   
   A node.js application used to generate a quality readme.md file for your project
 
-  ![Screenshot (3)](https://github.com/ChuyiengVang/READMEgenerator/assets/124082784/fe14ff5a-8e68-42cc-a88a-887fe2a652ae)
+  ![Screenshot (4)](https://github.com/ChuyiengVang/READMEgenerator/assets/124082784/a59103ab-e22b-4943-b705-57bf129b1d6d)
 
   ## About
 
@@ -65,7 +65,8 @@ THEN I am taken to the corresponding section of the README
 
   link to video the application being used
 
-  https://drive.google.com/file/d/1EOzRZm7-lNm6rnfqK5ReOsFtqKwBm9rR/view
+  [https://drive.google.com/file/d/1EOzRZm7-lNm6rnfqK5ReOsFtqKwBm9rR/view] 
+  (https://drive.google.com/file/d/1NoUQ8xCFH0CG3cixMzNTVZsdV3edKnEa/view)
    
   ## Installation
 
