@@ -54,12 +54,19 @@ THEN I am taken to the corresponding section of the README
   
   ## Table of Contents
   
+  * [Usage}(#usage)
   * [Installation](#installation)
   * [License](#license)
   * [Contributing](#contributing)
   * [Test](#test)
   * [Question](#question)
-  
+
+  ## Usage
+
+  link to video the application being used
+
+  https://drive.google.com/file/d/1EOzRZm7-lNm6rnfqK5ReOsFtqKwBm9rR/view
+   
   ## Installation
 
   clone repo and npm install inquirer
