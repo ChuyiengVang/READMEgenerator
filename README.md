@@ -4,7 +4,7 @@
   
   A node.js application used to generate a quality readme.md file for your project
 
-  ![Screenshot (1)](https://github.com/ChuyiengVang/READMEgenerator/assets/124082784/34ec82db-317e-42a7-832b-365013685f5b)
+  ![Screenshot (3)](https://github.com/ChuyiengVang/READMEgenerator/assets/124082784/fe14ff5a-8e68-42cc-a88a-887fe2a652ae)
 
   ## About
 
