@@ -79,7 +79,7 @@ THEN I am taken to the corresponding section of the README
   
   ## Contributing
   
-  none
+  fork my project, create a new feature branch and commit when done
   
   ## Test
   
