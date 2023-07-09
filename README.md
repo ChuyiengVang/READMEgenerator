@@ -54,7 +54,7 @@ THEN I am taken to the corresponding section of the README
   
   ## Table of Contents
   
-  * [Usage}(#usage)
+  * [Usage](#usage)
   * [Installation](#installation)
   * [License](#license)
   * [Contributing](#contributing)
