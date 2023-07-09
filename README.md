@@ -65,8 +65,7 @@ THEN I am taken to the corresponding section of the README
 
   link to video the application being used
 
-  [https://drive.google.com/file/d/1EOzRZm7-lNm6rnfqK5ReOsFtqKwBm9rR/view] 
-  (https://drive.google.com/file/d/1NoUQ8xCFH0CG3cixMzNTVZsdV3edKnEa/view)
+  https://drive.google.com/file/d/1NoUQ8xCFH0CG3cixMzNTVZsdV3edKnEa/view
    
   ## Installation
 
