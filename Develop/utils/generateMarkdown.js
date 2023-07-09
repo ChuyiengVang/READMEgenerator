@@ -64,6 +64,4 @@ function generateMarkdown({title, description, instaInstru, usageInfo, license, 
   
 }
 
-
-
 module.exports = generateMarkdown;
